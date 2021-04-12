@@ -1,0 +1,22 @@
+<project>
+
+<modelversion>4.0.0</modelversion>
+
+   <groupId>com.mahi7780</groupID>
+   <artifactId>mahi7780</artifactId>
+   <packaging>jar</packaging>
+   <version>2.0-snapshot</version>
+
+
+   <name>mahi7780</name>
+
+   <dependecies>
+      <dependecy>
+	<groupId>junit</groupId>
+	<artifactId>junit</artifactId>
+	<version>4.2</version>
+	<scope>test</scope>
+       </dependency>
+      </depenccies>
+
+</project>	      
